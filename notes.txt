@@ -1,0 +1,6 @@
+python vectorisation good for looping through pixels
+
+# Make Histogram
+hist = imhist(img)
+plt.plot(hist)
+plt.show() 
